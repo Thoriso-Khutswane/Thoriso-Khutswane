@@ -6,12 +6,11 @@
 ### **About Me**  
 Hi there 👋! I’m Thoriso Khutswane. I have a diverse background in data analysis, and cybersecurity. Whether it's dashboard building, dashboard deployment issues, and pen-test, I thrive in problem-solving environments where technology meets real-world impact.  
 
-- **Technical Support | API Debugging | Cloud Deployments**
-- **SOC Analyst | Security Monitoring | Threat Detection**
-- **Incident Response | Digital Forensics | Log Analysis**
-- **NIST 800-171 | Compliance | Risk Management**
-- **SIEM (Splunk, Wazuh) | Microsoft Defender | EDR Solutions**
-- **Python for Security | Network & Endpoint Security | Cloud Security**  
+- **Data Analyst | Data Modeling | Star Schema**
+- **Business Intelligence & Analytics | Data Integration & ETL Processes | Report Automation & Scheduling**
+- **Power BI Development | SQL & Relational Databases | Dashboard Design & Visualization**
+- **Penetration Testing (Web & API) | Vulnerability Scanning & Manual Testing**
+- **Linux for Security | Network Fundamentals (TCP/IP, DNS, HTTP/S) | OWASP Top 10**  
 
 ---
 
