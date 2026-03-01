@@ -9,17 +9,19 @@ Hi there 👋! I’m Thoriso Khutswane. I have a diverse background in data anal
 - **Data Analyst | Data Modeling | Star Schema**
 - **Business Intelligence & Analytics | Data Integration & ETL Processes | Report Automation & Scheduling**
 - **Power BI Development | SQL & Relational Databases | Dashboard Design & Visualization**
-- **Penetration Testing (Web & API) | Vulnerability Scanning & Manual Testing**
+- **Penetration Testing (Web & API) | Vulnerability Scanning & Manual Testing | Risk & Vulnerability Reporting**
 - **Linux for Security | Network Fundamentals (TCP/IP, DNS, HTTP/S) | OWASP Top 10**  
 
 ---
 
 ### **Skills & Technologies**  
-- **Security Operations:** SIEM, IDS/IPS, Endpoint Security  
-- **Incident Response & Threat Hunting:** Log Analysis, Digital Forensics  
-- **Network & Cloud Security:** Azure AD (Entra ID), Microsoft 365 Security  
-- **Threat Intelligence & Compliance:** MITRE ATT&CK, OSINT, NIST 800-171  
-- **Automation & Scripting:** Python, Bash, PowerShell  
+- **Data Visualization Tools:** Creating dashboards and reports using Power BI and SQL.
+- **Microsoft Excel:** Proficient use of Pivot Tables, VLOOKUPs, and data modeling for cleaning and organizing data. 
+- **Data Cleaning/Prep:** Preparing raw data for analysis using DAX & Power Query (M Language)
+- **Dashboard Deployment:** Deploying dashboards using Power BI Services and scheduling refreshes
+- **Pen-Testing:** pen-testing using tools such as Burp Suite & Nmap. Information Gathering using cherry tree  
+- **Cybersecurity Tools:** Nessus, Kali Linux  
+  
 
 ---
 
