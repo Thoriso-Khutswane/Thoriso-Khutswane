@@ -1,10 +1,10 @@
-## Hi there 👋
+
 ### **Thoriso Khutswane | Data Analyst | Cyber Security Analyst(Penetration Testing)**
 
 ---
 
 ### **About Me**  
-Hey there! I’m Thoriso Khutswane. I have a diverse background in data analysis, and cybersecurity. Whether it's dashboard building, dashboard deployment issues, and pen-test, I thrive in problem-solving environments where technology meets real-world impact.  
+Hi there 👋! I’m Thoriso Khutswane. I have a diverse background in data analysis, and cybersecurity. Whether it's dashboard building, dashboard deployment issues, and pen-test, I thrive in problem-solving environments where technology meets real-world impact.  
 
 - **Technical Support | API Debugging | Cloud Deployments**
 - **SOC Analyst | Security Monitoring | Threat Detection**
