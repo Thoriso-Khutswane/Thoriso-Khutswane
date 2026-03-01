@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I’m Thoriso Khutswane. I have a diverse background in data analysis & cybersecurity. Whether it's dashboard development, deployment and pentration testing,  I thrive in problem-solving environments where technology meets real world.
 <!--
 **Thoriso-Khutswane/Thoriso-Khutswane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
