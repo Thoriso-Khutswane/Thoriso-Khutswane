@@ -43,7 +43,7 @@ Hi there 👋! I’m Thoriso Khutswane. I have a diverse background in data anal
 ### **Connect with Me**  
 **LinkedIn:** [https://linkedin.com/in/thoriso-khutswane)  
 **Email:** khutswanethoriso@gmail.com 
-**GitHub:**  [github.com/Thoriso-Khutswane](https://github.com/Thoriso-Khutswane)[)  
+**GitHub:**  [github.com/Thoriso-Khutswane](https://github.com/Thoriso-Khutswane) 
 
 <!---
 Ivy-Roman/Ivy-Roman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
