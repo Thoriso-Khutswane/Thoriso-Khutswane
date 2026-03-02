@@ -26,22 +26,24 @@ Hi there 👋! I’m Thoriso Khutswane. I have a diverse background in data anal
 ---
 
 ### **Projects & Research**  
-- **[)** – .
-- **[)** - .
+- **[major one for data analyst)** – .
+- **[Major one for penetration teting)** - .
 
 ---
 
 ### **Certifications**  
-- **SOC Analyst Certificate - Cyblack SOC Academy**  
-- **Google Cybersecurity Professional (Coursera)**  
-- **CompTIA Security+ (In Progress)**  
+- **Microsoft Power BI Data Analyst Professional Certificate (In progress)**
+- **Business Risk Management - University of Cape Town**  
+- **Introduction to Cybersecurity – Cisco**  
+- **OWASP Top 10 (Practical Understanding) – TryHackMe**
+- **CompTIA Pentest+ Learning Path – TryHackMe**
 
 ---
 
 ### **Connect with Me**  
-**LinkedIn:** [)  
-**Email:**   
-**GitHub:** [)  
+**LinkedIn:** [https://linkedin.com/in/thoriso-khutswane)  
+**Email:** khutswanethoriso@gmail.com 
+**GitHub:**  [github.com/Thoriso-Khutswane](https://github.com/Thoriso-Khutswane)[)  
 
 <!---
 Ivy-Roman/Ivy-Roman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
