@@ -1,5 +1,5 @@
 
-### **Thoriso Khutswane | Data Analyst | Cyber Security Analyst(Penetration Testing)**
+### **Thoriso Khutswane | Data Analyst | Cyber Security Analyst**
 
 ---
 
