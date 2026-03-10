@@ -4,7 +4,7 @@
 ---
 
 ### **About Me**  
-Hi there 👋! I’m Thoriso Khutswane. I have a diverse background in data analysis, and cybersecurity. Whether it's dashboard building, dashboard deployment issues, and pen-test, I thrive in problem-solving environments where technology meets real-world impact.  
+Hi there 👋! I’m Thoriso Khutswane. I have a diverse background in data analysis, and cybersecurity. Whether it's dashboard building, dashboard deployment issues, conducting pen-test and report writting, I thrive in problem-solving environments where technology meets real-world impact.  
 
 - **Data Analyst | Data Modeling | Star Schema**
 - **Business Intelligence & Analytics | Data Integration & ETL Processes | Report Automation & Scheduling**
