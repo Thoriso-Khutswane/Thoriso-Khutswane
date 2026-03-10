@@ -1,5 +1,5 @@
 
-### **Thoriso Khutswane | Data Analyst | Cyber Security Analyst**
+### **Thoriso Khutswane | Cyber Security Data Analyst**
 
 ---
 
