@@ -26,7 +26,7 @@ Hi there 👋! I’m Thoriso Khutswane. I have a diverse background in data anal
 ---
 
 ### **Projects & Research**  
-- **[major one for data analyst)** – .
+- **[Cybersecurity Risk & Vulnerability Management Dashboard](https://github.com/Thoriso-Khutswane/Cybersecurity-Risk-Vulnerability-Management-Dashboard/tree/main)** – This project showcases my previous working experience as an IT Risk Data Analyst Associate at Momentum Group, focusing on developing a real-time vulnerability visibility dashboard for risk teams.
 -  **[Vulnerability Assessment and Penetration Testing Lab](https://github.com/Thoriso-Khutswane/Offensive-Security-VAPT-Lab)** – Developed a hands-on Vulnerability Assessment and Penetration Testing (VAPT) lab to identify and exploit security weaknesses in web applications and operating systems using industry tools such as Burp Suite, Nmap, and Metasploit
 
 ---
