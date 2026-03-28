@@ -1,5 +1,5 @@
 
-### **Thoriso Khutswane | Cybersecurity Data Analyst**
+### **Thoriso Khutswane | BI & Data Analyst | Cybersecurity & Risk Intelligence**
 
 ---
 
