@@ -1,5 +1,5 @@
 
-### **Thoriso Khutswane | BI Data Analyst | Cybersecurity & Risk Intelligence**
+### **Thoriso Khutswane | BI Data Analyst | Security Testing**
 
 ---
 
